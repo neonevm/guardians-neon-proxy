@@ -36,7 +36,7 @@ volumes:
 
 ### Environments
 
-Some container environments need attention for production use, such as:
+Some container environments need attention for production, such as:
 
 ```bash
       POSTGRES_DB: neon-db
@@ -45,7 +45,7 @@ Some container environments need attention for production use, such as:
       POSTGRES_HOST: postgres
 ```
 
-For read-only mode,   ``` ENABLE_SEND_TX_API: "NO" ``` should stay as "NO" for correct use. This is how application works without operator-keys.
+For read-only mode,   ``` ENABLE_SEND_TX_API: "NO" ``` should stay as "NO" for correct usage. This is how application works without operator-keys.
 
 
 
