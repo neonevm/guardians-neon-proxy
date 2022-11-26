@@ -1,5 +1,12 @@
 ## Operator read-only mode using docker-compose.
 
+### Requirements
+
+Please use at least version v2.12.1 for docker-composer, following instructions from [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
+
+Docker engine should follow [official docs](https://docs.docker.com/engine/install/). In this page, we have install procedures for all Linux distros.
+
+
 ### Instructions
 
 First of all, you should have your RPC node endpoint.
