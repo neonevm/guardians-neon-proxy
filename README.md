@@ -4,6 +4,11 @@
 
 Please use at least version v2.12.1 for docker-composer, following instructions from [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
 
+## Hardware specs
+
+Virtual Server (cloud/vmware) with 4vCPU and 8GB RAM - 500GB of disk.
+Linux ubuntu/centos based OS.
+
 Docker engine should follow [official docs](https://docs.docker.com/engine/install/). In this page, there are install procedures for all Linux distros.
 
 
