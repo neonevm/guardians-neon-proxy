@@ -10,7 +10,7 @@ Please use at least version v2.12.1 for docker-composer, following instructions 
 
 ### Hardware specs
 
-Virtual Server (cloud/vmware) with 4vCPU and 8GB RAM - 500GB of disk.
+Server (cloud/virtual machine) with 4vCPU and 8GB RAM - 500GB of disk.
 Linux ubuntu/centos based OS.
 
 ### Instructions
