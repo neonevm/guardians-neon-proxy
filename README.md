@@ -8,7 +8,7 @@ Please use at least version v2.12.1 for docker-composer, following instructions 
 
 - Docker-compose is required to run yaml file: [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
 
-## Hardware specs
+### Hardware specs
 
 Virtual Server (cloud/vmware) with 4vCPU and 8GB RAM - 500GB of disk.
 Linux ubuntu/centos based OS.
